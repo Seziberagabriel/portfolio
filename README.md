@@ -1,12 +1,12 @@
-<<<<<<< HEAD
+
 ## My Portfolio
 Welcome to my personal portfolio! 
 
 This repository showcases my skills, projects, and experiences as a web developer.
-=======
+
 My Portfolio
 Welcome to my personal portfolio! This repository showcases my skills, projects, and experiences as a web developer.
->>>>>>> 2ecb822068d855d31c4ba9ae81b2dc61fc857b54
+
 
 Table of Contents
 About Me
